@@ -1,4 +1,4 @@
-# Unmanned Surface Vehicle for Debris Collection
+# Smart Aquatic Trash Skimer For pollution Control 
 
 ## Overview
 
